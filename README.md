@@ -14,7 +14,7 @@ An interactive, AI-powered 3D visualization that bridges the gap between physica
 
 ## 🛠️ Technical Stack
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+* **Frontend:** HTML5
 * **3D Engine:** [Three.js](https://threejs.org/)
 * **AI/ML:** [Google MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands.html)
 * **Math:** Parametric equations for complex 3D shape generation.
